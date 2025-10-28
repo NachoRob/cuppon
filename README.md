@@ -8,7 +8,7 @@ Cuppon es una página web responsive que muestra ofertas y descuentos de diverso
 
 ## 🌐 Demo en Vivo
 
-Visita el sitio: [https://tu-usuario.github.io/cuppon](https://tu-usuario.github.io/cuppon)
+Visita el sitio: [https://nachorob.github.io/cuppon](https://nachorob.github.io/cuppon)
 
 ## 🚀 Tecnologías Utilizadas
 
