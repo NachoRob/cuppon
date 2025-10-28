@@ -1,0 +1,40 @@
+
+.mi-navbar-verde {
+    background-color: #28a745; /* o el código que prefieras */
+}
+.mis-botones button {
+        margin-right: 35px;
+    }
+.mis-botones button:last-child {
+        margin-right: 50px;  /* el último sin margen */
+    }
+
+.mis-botones .nav-link {
+    transition: opacity 1s; /* suaviza el efecto */
+}
+
+.mis-botones .nav-link:hover {
+    opacity: 0.7; /* se vuelve semi-transparente */
+}
+
+footer img {
+    height: 24px;
+    width: 82px;
+}
+
+.mi-section-verde {
+    background-color: #28a745; /* o el código que prefieras */
+}
+.mi-section-verde h2 {
+    margin-bottom: 20px;
+}
+
+.mi-section-verde .form-control::placeholder {
+  color: #707070; /* gris claro */
+}
+
+.card {
+  width: 100%;
+  max-width: 18rem;
+  margin: 0 auto;
+}
