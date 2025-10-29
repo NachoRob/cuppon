@@ -33,6 +33,15 @@ footer img {
   color: #707070; /* gris claro */
 }
 
+.mi-section-verde .form-control {
+  color: #333; 
+}
+
+.mi-section-verde form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
 .card {
   width: 100%;
   max-width: 18rem;
